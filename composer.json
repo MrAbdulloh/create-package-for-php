@@ -1,0 +1,17 @@
+{
+    "name": "abdullo/create-package-for-php",
+    "license": "GPL-3.0-only",
+    "autoload": {
+        "psr-4": {
+
+            "Abdullo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Akramov Abdulloh",
+            "email": "akramovabdullo2002@gmail.com"
+        }
+    ],
+    "require": {}
+}
